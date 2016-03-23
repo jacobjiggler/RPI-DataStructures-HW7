@@ -1,0 +1,8 @@
+load wizard_of_oz.txt 3 ignore_punctuation
+print "could"
+print "flying"
+print "oh dear"
+generate "tomorrow" 10 random
+generate "silver shoes" 10 random
+generate "monkey" 10 random
+quit
